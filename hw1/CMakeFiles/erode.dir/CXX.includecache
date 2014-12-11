@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/david/Documents/cse455/hw1/erode.cpp
+utils.h
+/Users/david/Documents/cse455/hw1/utils.h
+
+/Users/david/Documents/cse455/hw1/utils.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+string.h
+-
+math.h
+-
+

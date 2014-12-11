@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/david/Documents/cse455/hw4/kmeans.cpp
+iostream
+-
+stdio.h
+-
+fcntl.h
+-
+utils.h
+/Users/david/Documents/cse455/hw4/utils.h
+vector
+-
+math.h
+-
+float.h
+-
+set
+-
+
+/Users/david/Documents/cse455/hw4/utils.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+string.h
+-
+math.h
+-
+

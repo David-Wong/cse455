@@ -1,0 +1,5 @@
+/Users/david/Documents/cse455/hw1/CMakeFiles/autocolor.dir
+/Users/david/Documents/cse455/hw1/CMakeFiles/conrgn.dir
+/Users/david/Documents/cse455/hw1/CMakeFiles/dilate.dir
+/Users/david/Documents/cse455/hw1/CMakeFiles/erode.dir
+/Users/david/Documents/cse455/hw1/CMakeFiles/thresh.dir

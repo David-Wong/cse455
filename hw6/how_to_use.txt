@@ -1,0 +1,8 @@
+./hw6 beach.ppm
+	beach_clustered.pgm
+./conrgn c beach_clustered.pgm
+	beach_connected.ppm
+./regions beach.ppm beach_connected.ppm
+	beach_regions.txt
+./compare beach
+	outputs comparison with all other images

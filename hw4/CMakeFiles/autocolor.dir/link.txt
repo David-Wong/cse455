@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/autocolor.dir/autocolor.cpp.o CMakeFiles/autocolor.dir/utils.cpp.o  -o autocolor  

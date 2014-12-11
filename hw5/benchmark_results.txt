@@ -1,0 +1,66 @@
+double threshold = 0.00001;
+
+
+
+[wongdk@ian cse455hw5_lin]$ ./CSE455 benchmark bikes/
+computing features for image 1
+computing features for image 2
+computing features for image 3
+computing features for image 4
+computing features for image 5
+computing features for image 6
+matching image 1 with image 2
+nInliers = 2326
+nMatches = 3043
+Fraction of correct matches = 0.764377
+matching image 1 with image 3
+nInliers = 2193
+nMatches = 3043
+Fraction of correct matches = 0.720670
+matching image 1 with image 4
+nInliers = 1703
+nMatches = 3043
+Fraction of correct matches = 0.559645
+matching image 1 with image 5
+nInliers = 1356
+nMatches = 3043
+Fraction of correct matches = 0.445613
+matching image 1 with image 6
+nInliers = 985
+nMatches = 3043
+Fraction of correct matches = 0.323694
+
+average correct matches: 56.279987 %
+
+
+
+
+[wongdk@ian cse455hw5_lin]$ ./CSE455 benchmark leuven/
+computing features for image 1
+computing features for image 2
+computing features for image 3
+computing features for image 4
+computing features for image 5
+computing features for image 6
+matching image 1 with image 2
+nInliers = 1911
+nMatches = 2387
+Fraction of correct matches = 0.800587
+matching image 1 with image 3
+nInliers = 1593
+nMatches = 2387
+Fraction of correct matches = 0.667365
+matching image 1 with image 4
+nInliers = 1241
+nMatches = 2387
+Fraction of correct matches = 0.519899
+matching image 1 with image 5
+nInliers = 921
+nMatches = 2387
+Fraction of correct matches = 0.385840
+matching image 1 with image 6
+nInliers = 629
+nMatches = 2387
+Fraction of correct matches = 0.263511
+
+average correct matches: 52.744030 %

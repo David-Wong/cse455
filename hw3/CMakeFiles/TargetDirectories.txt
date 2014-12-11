@@ -1,0 +1,2 @@
+/Users/david/Documents/cse455/hw3/CMakeFiles/autocolor.dir
+/Users/david/Documents/cse455/hw3/CMakeFiles/kmeans.dir

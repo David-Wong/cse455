@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/david/Documents/cse455/hw4/autocolor.cpp
+utils.h
+/Users/david/Documents/cse455/hw4/utils.h
+
+/Users/david/Documents/cse455/hw4/utils.cpp
+utils.h
+/Users/david/Documents/cse455/hw4/utils.h
+
+/Users/david/Documents/cse455/hw4/utils.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+string.h
+-
+math.h
+-
+
